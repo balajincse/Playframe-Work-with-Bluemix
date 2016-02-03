@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting id="Add" value="true" />
+    <OptionsSetting id="Remove" value="true" />
+    <OptionsSetting id="Checkout" value="true" />
+    <OptionsSetting id="Update" value="true" />
+    <OptionsSetting id="Status" value="true" />
+    <OptionsSetting id="Edit" value="true" />
+    <ConfirmationsSetting id="Add" value="0" />
+    <ConfirmationsSetting id="Remove" value="0" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

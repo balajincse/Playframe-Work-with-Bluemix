@@ -1,0 +1,13 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Notes
+POST		/notes 							controllers.Notes.create
+GET			/notes		 					controllers.Notes.retrieveAll
+GET			/notes/:sid	 					controllers.Notes.retrieve(sid: String)
+PUT			/notes/:sid						controllers.Notes.update(sid: String)
+DELETE		/notes/:sid						controllers.Notes.delete(sid: String)
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.at(path="/public", file)

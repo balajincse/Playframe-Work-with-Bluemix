@@ -1,0 +1,10 @@
+---
+applications:
+- name: play-rest-api-bm
+  memory: 128M
+  instances: 1
+  host: play-rest-api-bm
+  path: target\universal\playRestApiSample-1.0.zip
+  buildpack: java_buildpack
+  services:
+  - notes-db

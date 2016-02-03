@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: postgresql:postgresql:9.1-901-1.jdbc4">
+    <CLASSES>
+      <root url="jar://C:/play-2.2.1/repository/cache/postgresql/postgresql/jars/postgresql-9.1-901-1.jdbc4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.httpcomponents:httpcore:4.0.1:jar">
+    <CLASSES>
+      <root url="jar://C:/activator-dist-1.3.7/repository/org.apache.httpcomponents/httpcore/4.0.1/jars/httpcore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

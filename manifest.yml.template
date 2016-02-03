@@ -1,0 +1,9 @@
+---
+applications:
+- name: play-rest-api-sample
+  memory: 128M
+  instances: 1
+  host: play-rest-api-sample-$RANDOM
+  path: dist/playrestapisample-1.0.zip
+  services:
+  - notes-db
